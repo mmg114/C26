@@ -6,7 +6,6 @@ import java.util.Scanner;
 public class Clase2 {
     public static void main(String[] args) {
 
-
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Ingrese su nombre");
@@ -16,6 +15,7 @@ public class Clase2 {
         System.out.println("Digite su edad");
         int edad = scanner.nextInt();
         System.out.println("Su edad es "+edad);
+
 
     }
 
