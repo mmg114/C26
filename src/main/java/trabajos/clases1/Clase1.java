@@ -5,7 +5,6 @@ import java.util.Map;
 
 public class Clase1 {
     public static void main(String[] args) {
-
         //Variables primitivas
         int  numero = 12;
         long numerosLargos=37828937;
@@ -24,7 +23,7 @@ public class Clase1 {
         String palabras="Hola mundo.";
 
         //EJEMPLO DE NULL 0 >
-        Integer papelHigienico;
+        Integer papelHigienico=1;
         papelHigienico=10;
         papelHigienico=0;
         papelHigienico=null;
