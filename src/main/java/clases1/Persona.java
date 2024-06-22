@@ -1,4 +1,4 @@
-package trabajos.clases1;
+package clases1;
 
  class Persona {
 
