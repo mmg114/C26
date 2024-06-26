@@ -6,16 +6,16 @@ public class Clase4 {
 
     public static void main(String[] args) {
 
-//        Integer edad = 55;
-//
-//        if (edad==null) {
-//            System.out.println("la edad es null");
-//        } else {
-//            System.out.println("Es menor de edad");
-//            if (edad >100) {
-//                System.out.println("Esta persona es muy vieja");
-//            }
-//        }
+        Integer edad = 55;
+
+        if (edad==null) {
+            System.out.println("la edad es null");
+        } else {
+            System.out.println("Es menor de edad");
+            if (edad >100) {
+                System.out.println("Esta persona es muy vieja");
+            }
+        }
         Scanner scanner = new Scanner(System.in);
         try {
 
