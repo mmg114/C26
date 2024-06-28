@@ -1,4 +1,4 @@
-package clases1;
+package clases;
 
 public class Lapiz {
 
